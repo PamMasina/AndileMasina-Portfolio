@@ -99,7 +99,7 @@ As part of the work readiness component of this module, I was required to record
 I needed to film myself conducting a mock interview, answer questions confidently, and embed the video in my digital portfolio as evidence of my work readiness development.
 
 **Action**
-I prepared for the interview by reviewing common interview questions and thinking through how to articulate my skills and experience. However, when it came time to record, I found it extremely difficult to speak naturally, even when interviewing myself. I had to push through the discomfort, re-record where necessary, and remind myself of the purpose of the exercise.
+I prepared for the interview by reviewing interview questions in our subject guide and thinking through how to articulate my skills and experience. However, when it came time to record, I found it extremely difficult to speak naturally, even when interviewing myself. I had to push through the discomfort, re-record where necessary, and remind myself of the purpose of the exercise.
 
 **Result**
 Although it was one of the most challenging parts of this assessment, I completed the video and submitted it as required. The experience revealed to me just how important interview preparation and practice are. I realised that if I found it difficult to speak when alone, I need to put in significantly more effort before attending actual job interviews. Going forward, I intend to practise speaking out loud more regularly, record myself answering questions, and build my confidence incrementally so that I am better prepared when real opportunities arise.
@@ -109,7 +109,7 @@ Although it was one of the most challenging parts of this assessment, I complete
 ### 3. Reflection on the Use of GitHub Pages: STAR Method
 
 **Situation**
-The assessment required me to deploy my digital portfolio to GitHub Pages so that it would be publicly accessible via a live URL. GitHub Pages was a tool I had been introduced to during this module, and I had successfully deployed my portfolio approximately four weeks before the submission deadline.
+The assessment required me to deploy my digital portfolio to GitHub Pages so that it would be publicly accessible via a live URL. GitHub Pages was a tool I had been introduced to during this module, and I had successfully deployed my github portfolio approximately four weeks ago as my first submission deadline.
 
 **Task**
 My task was to ensure that my portfolio was correctly deployed and live on GitHub Pages, and to submit the working link as evidence of my published portfolio.
@@ -118,6 +118,6 @@ My task was to ensure that my portfolio was correctly deployed and live on GitHu
 I followed the steps to enable GitHub Pages on my repository, selected the correct branch to deploy from, and confirmed that my portfolio was live at my GitHub Pages URL. At the time, the site was accessible and all content was displaying correctly. I also explored the GitHub Pages settings to understand how the deployment pipeline works.
 
 **Result**
-Initially, the deployment was successful and my portfolio was publicly viewable. However, I later encountered a 404 error on the live link, which indicated that the GitHub Pages site was no longer being served correctly. This may have been caused by a change in the repository's branch settings or the source folder configuration. This experience highlighted the importance of regularly checking deployed sites and understanding how hosting environments can be affected by changes in repository settings. I am currently troubleshooting the issue by reviewing my Pages configuration to restore the live site before the submission deadline.
+Initially, the deployment was successful and my portfolio was publicly viewable. However, on the 18th of April 2026 I encountered a 404 error on the live link, which indicated that the GitHub Pages site was no longer being served correctly. This may have been caused by a change in the repository's branch settings or the source folder configuration. This experience highlighted the importance of regularly checking deployed sites and understanding how hosting environments can be affected by changes in repository settings. I am currently troubleshooting the issue by reviewing my Pages configuration to restore the live site before the submission deadline.
 
 ---
