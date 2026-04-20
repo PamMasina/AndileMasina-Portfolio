@@ -74,7 +74,7 @@ I am an ICT student with a background in Application Development and a certified
 
 ## Reflections
 
-### 1. Reflection on Coding in Markdown – STAR Method
+### 1. Reflection on Coding in Markdown: STAR Method
 
 **Situation**
 As part of the Project Presentation 3 assessment, I was required to build a digital portfolio using Markdown on GitHub. Prior to this task, I had no experience with Markdown and had never used it in any of my previous projects or coursework.
@@ -90,7 +90,7 @@ By the end of the process, I was able to successfully code my entire portfolio u
 
 ---
 
-### 2. Reflection on Mock Interview Video Experience – STAR Method
+### 2. Reflection on Mock Interview Video Experience: STAR Method
 
 **Situation**
 As part of the work readiness component of this module, I was required to record a mock interview video to demonstrate my ability to present myself professionally and respond to interview-style questions.
@@ -106,7 +106,7 @@ Although it was one of the most challenging parts of this assessment, I complete
 
 ---
 
-### 3. Reflection on the Use of GitHub Pages – STAR Method
+### 3. Reflection on the Use of GitHub Pages: STAR Method
 
 **Situation**
 The assessment required me to deploy my digital portfolio to GitHub Pages so that it would be publicly accessible via a live URL. GitHub Pages was a tool I had been introduced to during this module, and I had successfully deployed my portfolio approximately four weeks before the submission deadline.
