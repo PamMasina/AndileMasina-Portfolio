@@ -57,7 +57,7 @@ I am an ICT student with a background in Application Development and a certified
 
 ## References
 1. **Sinethemba Mabaso** – Mentor | 068 102 2190
-2. **Zama Zamisa** – Instructor | 882 648 6529
+2. **Zama Zamisa** – Instructor | 082 648 6529
 
 ---
 
