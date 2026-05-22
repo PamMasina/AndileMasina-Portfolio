@@ -1,3 +1,7 @@
+# Andile Pamela Masina Github Account
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1567c181-16df-44de-b601-a6f38ef76cb8" />
+
+
 # Andile Pamela Masina
 **Cape Town, Western Cape** | 0842192037
 [LinkedIn](https://www.linkedin.com/in/andile-masina-a099ba220) | 221568816@mycput.ac.za
