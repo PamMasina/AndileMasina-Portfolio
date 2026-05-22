@@ -1,6 +1,8 @@
 # Andile Pamela Masina Github Account
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1567c181-16df-44de-b601-a6f38ef76cb8" />
 
+---
 
 # Andile Pamela Masina
 **Cape Town, Western Cape** | 0842192037
@@ -65,20 +67,14 @@ I am an ICT student with a background in Application Development and a certified
 
 ---
 
-## Mock Interview Video
-
-<video src="./AP_Masina_Interview Video.mp4" controls width="600"></video>
-
----
-
 ## Resume Link
 [View CV on GitHub](https://github.com/wil-it-2026/cv-submission-PamMasina)
 
 ---
 
-## Reflections
+## Reflection
 
-### 1. Reflection on Coding in Markdown: STAR Method
+### Reflection on Coding in Markdown: STAR Method
 
 **Situation**
 As part of the Project Presentation 3 assessment, I was required to build a digital portfolio using Markdown on GitHub. Prior to this task, I had no experience with Markdown and had never used it in any of my previous projects or coursework.
@@ -94,7 +90,13 @@ By the end of the process, I was able to successfully code my entire portfolio u
 
 ---
 
-### 2. Reflection on Mock Interview Video Experience: STAR Method
+# Mock Interview Video
+
+<video src="./AP_Masina_Interview Video.mp4" controls width="600"></video>
+
+---
+## Reflection
+### Reflection on Mock Interview Video Experience: STAR Method
 
 **Situation**
 As part of the work readiness component of this module, I was required to record a mock interview video to demonstrate my ability to present myself professionally and respond to interview-style questions.
@@ -110,6 +112,13 @@ Although it was one of the most challenging parts of this assessment, I complete
 
 ---
 
+# Andile Pamela Masina Github Pages
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/038865bd-47d3-4db2-89bf-6a171ec1cc1b" />
+
+---
+
+# Reflection
 ### 3. Reflection on the Use of GitHub Pages: STAR Method
 
 **Situation**
@@ -123,5 +132,3 @@ I followed the steps to enable GitHub Pages on my repository, selected the corre
 
 **Result**
 Initially, the deployment was successful and my portfolio was publicly viewable. However, on the 18th of April 2026 I encountered a 404 error on the live link, which indicated that the GitHub Pages site was no longer being served correctly. This may have been caused by a change in the repository's branch settings or the source folder configuration. This experience highlighted the importance of regularly checking deployed sites and understanding how hosting environments can be affected by changes in repository settings. I am currently troubleshooting the issue by reviewing my Pages configuration to restore the live site before the submission deadline.
-
----
