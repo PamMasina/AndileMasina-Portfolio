@@ -135,6 +135,11 @@ Initially, the deployment was successful and my portfolio was publicly viewable.
 
 ---
 
+<style>
+table tr, table tr:nth-child(2n), table tbody tr:nth-child(even), table tbody tr:nth-child(odd) { background-color: #ffffff !important; }
+table th { background-color: #ffffff !important; }
+</style>
+
 <a id="wil-agile-portfolio"></a>
 
 # WIL Agile Portfolio
@@ -409,6 +414,10 @@ Four more stories were left for the future: push notifications and SMS, offline 
 **Evidence:** [Trello board, Product Backlog list](https://trello.com/b/H2rhsh7c/careconnect)
 
 ![CareConnect Product Backlog](Careconnect/images/careconnect-product-backlog.png)
+
+![CareConnect board, with the Completed list](Careconnect/images/careconnect-board.png)
+
+On the Trello board, the Product Backlog list holds the future enhancements, and the stories we built are in the Completed list.
 
 The product backlog lists all of the work we planned for CareConnect, in priority order. Safety and privacy came first: access rules, sign up, the SOS and the responder screen. Then came the patient journey of booking and queue, then staff and admin tools, and last the improvements. The future ideas stayed at the bottom of the list.
 
