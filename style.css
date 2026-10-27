@@ -118,3 +118,7 @@ video{width:100%;max-width:640px;border-radius:var(--r);background:#000}
 .cc .artefact{border-top-color:var(--coral)}
 .artefact{scroll-margin-top:70px}
 .cc>h2{background:var(--coral)}
+
+.proof{background:var(--card);border:1px solid var(--line);border-top:6px solid var(--teal);border-radius:var(--r);padding:8px 24px 18px;margin:22px 0}
+.proof img{border:1px solid var(--line);border-radius:7px;display:block;margin:10px 0}
+@media (max-width:600px){.proof{padding:4px 14px 14px}}
